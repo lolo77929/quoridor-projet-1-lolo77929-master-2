@@ -13,7 +13,7 @@ Functions:
                            de la partie et de l'état initial du jeu
     * jouer_coup - Retourne un dictionnaire représentant l'état actuel du jeu
 """
-import requests
+#import requests
 
 # TODO: Complétez avec le bon URL, retirer le TODO une fois complété.
 URL = "https://"

@@ -59,6 +59,7 @@ from quoridor import afficher_damier_ascii, analyser_commande
 
 # TODO: Vous ne devriez pas avoir de code ici, retirer le TODO une fois complété.
 if __name__ == "__main__":
+    ARGS = analyser_commande()
     # TODO: Implémentez votre boucle de jeu ici à CE niveau D'INDENTATION,
     #       retirer le TODO une fois complété.
     pass
